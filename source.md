@@ -4,7 +4,7 @@
 
 # Sekilas Malang DevCamp 2016
 
-Malang Dev Camp 2016 adalah sebuah acara non-profit yang dikemas dalam suasana camp yang berlangsung selama dua hari satu malam. Dalam acara ini, para web developer khususnya para Developer PHP akan berkumpul untuk mendiskusikan berbagai macam hal seputar web development. Selain itu acara ini juga juga dikemas dengan kegiatan outbound guna meningkatkan solidaritas antar developer.
+ Malang Dev Camp 2016 adalah sebuah acara non-profit yang dikemas dalam suasana camp yang berlangsung selama dua hari satu malam. Dalam acara ini, para web developer khususnya para Developer PHP akan berkumpul untuk mendiskusikan berbagai macam hal seputar web development. Selain itu acara ini juga juga dikemas dengan kegiatan outbound guna meningkatkan solidaritas antar developer.
 
 Dengan mengusung tema "Back to Native", kami berharap dapat memberikan konsep dasar pemrograman PHP yang siap dipakai di dunia kerja kepada para peserta. Sehingga para peserta dapat mengimplementasikan konsep-konsep dasar tersebut pada saat bekerja.
 
@@ -12,7 +12,7 @@ Dengan mengusung tema "Back to Native", kami berharap dapat memberikan konsep da
 
 # Siapa Malang PHP User Group
 
-Malang PHP User Group adalah sebuah komunitas yang berfokus pada diskusi tentang perkembangan teknologi khususnya di bidang web development. Kami rutin mengadakan meetup setiap bulan dengan menghadirkan developer-developer terbaik di Kota Malang dan sekitarnya. Kami selalu membahas topik-topik hangat yang diulas oleh para praktisi dan profesional. Dalam memperingati ulang tahun Malang PHP User Group yang pertama, kami selaku Organizer Malang PHP User Group akan mengadakan acara khusus yang kami namakan __Malang Dev Camp 2016__.
+ Malang PHP User Group adalah sebuah komunitas yang berfokus pada diskusi tentang perkembangan teknologi khususnya di bidang web development. Kami rutin mengadakan meetup setiap bulan dengan menghadirkan developer-developer terbaik di Kota Malang dan sekitarnya. Kami selalu membahas topik-topik hangat yang diulas oleh para praktisi dan profesional. Dalam memperingati ulang tahun Malang PHP User Group yang pertama, kami selaku Organizer Malang PHP User Group akan mengadakan acara khusus yang kami namakan __Malang Dev Camp 2016__.
 
 - - -
 
